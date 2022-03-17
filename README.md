@@ -5,47 +5,50 @@
 
 
 ## Содержание
-
-* [**Сервисы**](#сервисы)  
-* [**Jquery-плагины**](#jquery-плагины) 
-    + [Карусели](#карусели) 
+- [front-end](#front-end)
+  * [Jquery-плагины](#jquery-плагины)
+    + [Карусели](#карусели)
     + [Сортировка](#сортировка)
     + [Встраивание видео](#встраивание-видео)
     + [Ползунок диапазона](#ползунок-диапазона)
     + [Звёздный рейтинг](#звёздный-рейтинг)
     + [Стилизация input](#стилизация-input)
     + [Анимация](#анимация)
-## Сервисы
+- [back-end](#back-end)
+  * [Wordpress-плагины](#wordpress-плагины)
+- [Дизайн](#дизайн)
+  * [Сетки веб-сайтов](#сетки-веб-сайтов)
+  * [Полезные статьи](#полезные-статьи)
 
-### Конструктор md-файлов
-- [readme.so](https://readme.so/editor)
+## front-end
 
-
-## Jquery-плагины
+### Jquery-плагины
 
 Все ссылки представлены в виде npm-пакетов.
 
 Не забывайте проверять лицензию плагина!
 
-### Карусели
+#### Карусели
 - [slick-carousel](https://www.npmjs.com/package/slick-carousel)
-### Сортировка
+#### Сортировка
 - [mixitup](https://www.npmjs.com/package/mixitup)
-### Встраивание видео
+#### Встраивание видео
 - [magnific-popup](https://www.npmjs.com/package/magnific-popup)
 - [fancybox (v3)](https://www.npmjs.com/package/@fancyapps/fancybox)
-### Ползунок диапазона
+#### Ползунок диапазона
 - [ion-rangeslider](https://www.npmjs.com/package/ion-rangeslider)
-### Звёздный рейтинг
+#### Звёздный рейтинг
 - [rateyo (2.3.2)](https://www.npmjs.com/package/rateyo/v/2.3.2)
-### Стилизация input
+#### Стилизация input
 - [jquery-form-styler](https://www.npmjs.com/package/jquery-form-styler)
-### Анимация
-- [jquery.counterup](https://www.npmjs.com/package/jquery.counterup)
+#### Анимация
+- [jquery.counterup](https://www.npmjs.com/package/jquery.counterup) - счётчик цифр
 - [waypoints](https://www.npmjs.com/package/waypoints) (зависимый плагин для jquery.counterup)
-- [wow.js](https://www.npmjs.com/package/wow.js)
+- [wow.js](https://www.npmjs.com/package/wow.js) - анимирование блоков при скролле
 - AOS
-## Wordpress-плагины
+## back-end
+
+### Wordpress-плагины
 
 - Redux Framework - Пользовательские опции темы
 - ACF - Дополнительные поля
