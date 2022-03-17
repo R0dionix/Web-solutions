@@ -30,8 +30,11 @@
 
 #### Карусели
 - [slick-carousel](https://www.npmjs.com/package/slick-carousel)
+- [owl.carousel](https://www.npmjs.com/package/owl.carousel)
 #### Сортировка
 - [mixitup](https://www.npmjs.com/package/mixitup)
+- masonry
+- isotope
 #### Встраивание видео
 - [magnific-popup](https://www.npmjs.com/package/magnific-popup)
 - [fancybox (v3)](https://www.npmjs.com/package/@fancyapps/fancybox)
