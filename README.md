@@ -20,7 +20,7 @@
   * [Сетки веб-сайтов](#сетки-веб-сайтов)
   * [Полезные статьи](#полезные-статьи)
 
-## front-end
+## Front-end
 
 ### Jquery-плагины
 
@@ -46,7 +46,7 @@
 - [waypoints](https://www.npmjs.com/package/waypoints) (зависимый плагин для jquery.counterup)
 - [wow.js](https://www.npmjs.com/package/wow.js) - анимирование блоков при скролле
 - AOS
-## back-end
+## Back-end
 
 ### Wordpress-плагины
 
