@@ -93,7 +93,7 @@
 ## Прочее
 
 ### Утилиты
-[wget](https://eternallybored.org/misc/wget/) - web scraper
+[wget](https://eternallybored.org/misc/wget/) - web scraper  
 [gulp ru](https://webdesign-master.ru/blog/docs/gulp-documentation.html) - документация gulp на русском
 
 ### Сервисы для разработчиков
