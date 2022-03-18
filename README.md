@@ -93,8 +93,7 @@
 ## Прочее
 
 ### Утилиты
-[wget](https://eternallybored.org/misc/wget/) - web scraper  
-[gulp ru](https://webdesign-master.ru/blog/docs/gulp-documentation.html) - документация gulp на русском
+[wget](https://eternallybored.org/misc/wget/) - web scraper
 
 ### Сервисы для разработчиков
 
@@ -105,7 +104,9 @@
 [flexbox-cheatsheet](https://tpverstak.ru/flex-cheatsheet/) - шпаргалка по flexbox  
 [emmet-cheatsheet](https://docs.emmet.io/cheat-sheet/) - шпаргалка по emmet
 #### Markdown
-[readme.so](https://readme.so/editor) - редактор markdown файлов 
+[readme.so](https://readme.so/editor) - редактор markdown файлов
+#### gulp
+[gulp ru](https://webdesign-master.ru/blog/docs/gulp-documentation.html) - документация gulp на русском
 
 ### Сервисы для дизайнеров
 
