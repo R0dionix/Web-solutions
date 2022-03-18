@@ -21,9 +21,8 @@
   * [Полезные статьи](#полезные-статьи)
 - [**Прочее**](#прочее)
   * [Утилиты](#утилиты)
-    + [wget](#wget)
-  * [Сервисы](#сервисы)
-    + [readme.so](#readme.so)
+  * [Сервисы для разработчиков](#сервисы-для-разработчиков)
+  * [Сервисы для дизайнеров](#сервисы-для-дизайнеров)
 
 ## Front-end
 
@@ -89,3 +88,32 @@
 [Типографика за 10 минут](https://netology.ru/blog/razbiraemsya-v-osnovakh-tipografiki-za-10-minut)  
 [Иерархия текста](https://web-etalon.ru/blog/ierarkhiya-v-tipografike/)  
 [Атомарный Дизайн](https://evergreens.com.ua/ru/articles/atomic-design.html#:~:text=%D0%90%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%E2%80%93%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B3%D0%BE,%D0%BE%D0%B1%D1%88%D0%B8%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%20%D0%BA%D0%B0%D0%BA%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%2D%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.)
+
+
+## Прочее
+
+### Утилиты
+[wget](https://eternallybored.org/misc/wget/) - web scraper
+
+### Сервисы для разработчиков
+
+#### Css
+[validator.w3.org](https://validator.w3.org/) - валидатор html/css  
+[css-arrow-generator](https://cssarrowplease.com/) - генератор css стрелок   
+[adaptive-cheatsheet](https://tpverstak.ru/adaptive-cheatsheet/) - шпаргалка по адаптивности  
+[flexbox-cheatsheet](https://tpverstak.ru/flex-cheatsheet/) - шпаргалка по flexbox  
+[emmet-cheatsheet](https://docs.emmet.io/cheat-sheet/) - шпаргалка по emmet
+#### Markdown
+[readme.so](https://readme.so/editor) - редактор markdown файлов 
+
+### Сервисы для дизайнеров
+
+#### Работа с цветом
+[hailpixel](https://color.hailpixel.com/) - генератор цветовой палитры   
+[coolors.co](https://coolors.co/) - генератор цветовой палитры  
+[color-thief](https://lokeshdhakar.com/projects/color-thief/) - получение цвета из фотографии    
+[color-picker](https://htmlcolorcodes.com/color-picker/) - пипетка   
+[web-safe-colors](https://colorscheme.ru/web-safe-colors.html) - безопасные веб-цвета  
+[colorsupplyyy](https://colorsupplyyy.com/app/) - генератор цветовой палитры
+#### Графика
+[ui-faces](https://www.uifaces.co/) - аватарки (~~гуманоидов~~) людей
