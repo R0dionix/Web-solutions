@@ -102,7 +102,7 @@
 [css-arrow-generator](https://cssarrowplease.com/) - генератор css стрелок   
 [adaptive-cheatsheet](https://tpverstak.ru/adaptive-cheatsheet/) - шпаргалка по адаптивности  
 [flexbox-cheatsheet](https://tpverstak.ru/flex-cheatsheet/) - шпаргалка по flexbox  
-[emmet-cheatsheet](https://docs.emmet.io/cheat-sheet/) - шпаргалка по emmet
+[emmet-cheatsheet](https://docs.emmet.io/cheat-sheet/) - шпаргалка по emmet  
 [common-css-words](https://github.com/yoksel/common-words) - часто используемые классы
 #### Markdown
 [readme.so](https://readme.so/editor) - редактор markdown файлов
