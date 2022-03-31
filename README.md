@@ -101,6 +101,9 @@
 
 ### Сервисы для разработчиков
 
+#### Json
+[json-escape-unescape](https://tools.icoder.uz/json-escape-unescape.php) - онлайн экранирование json
+
 #### Css
 [validator.w3.org](https://validator.w3.org/) - валидатор html/css  
 [css-arrow-generator](https://cssarrowplease.com/) - генератор css стрелок   
