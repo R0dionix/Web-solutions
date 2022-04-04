@@ -97,7 +97,8 @@
 [wget](https://eternallybored.org/misc/wget/) - web scraper
 
 ### Расширения VScode
-[File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Дополнительные функции в контекстном меню
+[File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Дополнительные функции в контекстном меню  
+[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Совместная работа
 
 ### Сервисы для разработчиков
 
