@@ -14,6 +14,7 @@
     + [Звёздный рейтинг](#звёздный-рейтинг)
     + [Стилизация input](#стилизация-input)
     + [Анимация](#анимация)
+    + [Плавный скролл](#плавный-скролл)
 - [**back-end**](#back-end)
   * [Wordpress-плагины](#wordpress-плагины)
 - [**Дизайн**](#дизайн)
@@ -54,6 +55,9 @@
 - [waypoints](https://www.npmjs.com/package/waypoints) (зависимый плагин для jquery.counterup)
 - [wow.js](https://www.npmjs.com/package/wow.js) - анимирование блоков при скролле
 - AOS
+#### Плавный скролл
+- [smoothScroll.js]() - плавный скролл
+
 ## Back-end
 
 ### Wordpress-плагины
