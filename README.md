@@ -57,9 +57,9 @@
 - [wow.js](https://www.npmjs.com/package/wow.js) - анимирование блоков при скролле
 - AOS
 #### Плавный скролл
-- [smoothScroll.js]() - плавный скролл
+- [smoothScroll.js] - плавный скролл
 #### Подсказки
-- [tippy.js]() - подсказки (Tooltips)
+- [tippy.js] - подсказки (Tooltips)
 
 ## Back-end
 
