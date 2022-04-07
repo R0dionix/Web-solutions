@@ -105,7 +105,7 @@
 
 ### Расширения VScode
 [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Дополнительные функции в контекстном меню  
-[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Совместная работа
+[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Совместная работа  
 [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Избранные проекты
 
 ### Сервисы для разработчиков
