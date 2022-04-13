@@ -111,7 +111,8 @@
 ### Сервисы для разработчиков
 
 #### Json
-[json-escape-unescape](https://tools.icoder.uz/json-escape-unescape.php) - онлайн экранирование json
+[json-escape-unescape](https://tools.icoder.uz/json-escape-unescape.php) - онлайн экранирование json  
+[jsonlint](https://jsonlint.com/) - валидатор и линтер json
 
 #### Css
 [validator.w3.org](https://validator.w3.org/) - валидатор html/css  
