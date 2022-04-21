@@ -102,6 +102,7 @@
 
 ### Утилиты
 [wget](https://eternallybored.org/misc/wget/) - web scraper
+[downgit](https://downgit.github.io/#/home) - скачивание конкретной папки с git
 
 ### Расширения VScode
 [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Дополнительные функции в контекстном меню  
