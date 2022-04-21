@@ -101,7 +101,7 @@
 ## Прочее
 
 ### Утилиты
-[wget](https://eternallybored.org/misc/wget/) - web scraper
+[wget](https://eternallybored.org/misc/wget/) - web scraper  
 [downgit](https://downgit.github.io/#/home) - скачивание конкретной папки с git
 
 ### Расширения VScode
