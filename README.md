@@ -127,6 +127,8 @@
 [readme.so](https://readme.so/editor) - редактор markdown файлов
 #### gulp
 [gulp ru](https://webdesign-master.ru/blog/docs/gulp-documentation.html) - документация gulp на русском
+#### sql
+[sql-queries-to-change-wordpress-website-domain](https://rudrastyh.com/sql-queries-to-change-wordpress-website-domain) - генератор sql запросов
 
 ### Сервисы для дизайнеров
 
