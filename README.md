@@ -50,7 +50,8 @@
 #### Звёздный рейтинг
 - [rateyo (2.3.2)](https://www.npmjs.com/package/rateyo/v/2.3.2)
 #### Стилизация input
-- [jquery-form-styler](https://www.npmjs.com/package/jquery-form-styler)
+- [jquery-form-styler](https://www.npmjs.com/package/jquery-form-styler)  
+- [selectize.js]
 #### Анимация
 - [jquery.counterup](https://www.npmjs.com/package/jquery.counterup) - счётчик цифр
 - [waypoints](https://www.npmjs.com/package/waypoints) (зависимый плагин для jquery.counterup)
