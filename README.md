@@ -118,7 +118,7 @@
 
 #### Html
 [can-i-include](https://caninclude.glitch.me/) - Сервис для проверки вложенности тегов  
-[html-tree](https://yoksel.github.io/html-tree/) - Проверка html разметки, поддерживаем БЭМ
+[html-tree](https://yoksel.github.io/html-tree/) - Проверка html разметки, поддерживает БЭМ
 #### Css
 [validator.w3.org](https://validator.w3.org/) - валидатор html/css  
 [css-arrow-generator](https://cssarrowplease.com/) - генератор css стрелок   
