@@ -116,6 +116,9 @@
 [json-escape-unescape](https://tools.icoder.uz/json-escape-unescape.php) - онлайн экранирование json  
 [jsonlint](https://jsonlint.com/) - валидатор и линтер json
 
+#### Html
+[can-i-include](https://caninclude.glitch.me/) - Сервис для проверки вложенности тегов  
+[html-tree](https://yoksel.github.io/html-tree/) - Проверка html разметки, поддерживаем БЭМ
 #### Css
 [validator.w3.org](https://validator.w3.org/) - валидатор html/css  
 [css-arrow-generator](https://cssarrowplease.com/) - генератор css стрелок   
