@@ -4,8 +4,6 @@
 
 Все ссылки представлены в виде npm-пакетов.
 
-Не забывайте проверять лицензию (Условия использования) плагина, дабы избежать юридических проблем!
-
 #### Карусели
 - [slick-carousel](https://www.npmjs.com/package/slick-carousel)
 - [owl.carousel](https://www.npmjs.com/package/owl.carousel)
