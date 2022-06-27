@@ -28,6 +28,7 @@
 
 ### Кэширование
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+- [WP Fastest Cache](https://ru.wordpress.org/plugins/wp-fastest-cache/)
 
 ### Безопасность
 - [All In One WP Security](https://ru.wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
