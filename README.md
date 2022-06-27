@@ -5,8 +5,8 @@
 
 
 ## Содержание
-- [**front-end**](front-end.md)
-- [**wordpress**](wordpress.md)
+- [**Front-end**](front-end.md)
+- [**Wordpress**](wordpress.md)
 - [**Дизайн**](design.md)
 - [**Прочее**](other.md)
-- [**codeguide**](codeguide.md)
+- [**Codeguide**](codeguide.md)
