@@ -17,7 +17,8 @@
 - [Carbon fields](https://carbonfields.net/release-archive/) - Произвольные поля без gui
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Отладка запросов
 - [User Switching](https://wordpress.org/plugins/user-switching/) - Отладка пользователей
-- [Cyr-To-Lat](https://wordpress.org/plugins/cyr2lat/) - Транслитерация ссылок
+- [Cyr-To-Lat](https://wordpress.org/plugins/cyr2lat/) - Транслитерация ссылок  
+- [Regenerate Thumbnails](https://ru.wordpress.org/plugins/regenerate-thumbnails) - Пересоздание миниатюр
 
 ### Контактные формы
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Форма обратной связи
