@@ -31,6 +31,8 @@
 [gulp ru](https://webdesign-master.ru/blog/docs/gulp-documentation.html) - документация gulp на русском
 ### sql
 [sql-queries-to-change-wordpress-website-domain](https://rudrastyh.com/sql-queries-to-change-wordpress-website-domain) - генератор sql запросов
+### composer
+[composer commands](https://composer.json.jolicode.com/) - шпаргалка по командам composer
 
 ## Сервисы для дизайнеров
 
