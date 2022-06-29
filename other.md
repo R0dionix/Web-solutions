@@ -32,7 +32,8 @@
 ### sql
 [sql-queries-to-change-wordpress-website-domain](https://rudrastyh.com/sql-queries-to-change-wordpress-website-domain) - генератор sql запросов
 ### composer
-[composer commands](https://composer.json.jolicode.com/) - шпаргалка по командам composer
+[composer commands](https://composer.json.jolicode.com/) - шпаргалка по командам composer  
+[composer commands ru](https://prowebmastering.ru/composer-osnovnye-komandy-spargalka.html) - шпаргалка по командам composer на русском
 
 ## Сервисы для дизайнеров
 
