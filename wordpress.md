@@ -9,6 +9,11 @@
 
 - [Underscores](https://underscores.me/)
 
+## Репозитории Composer
+
+- [Wordpress Packagist](https://wpackagist.org/)  
+- [Packagist](https://packagist.org/)
+
 ## Плагины
 
 ### Разработка и отладка
