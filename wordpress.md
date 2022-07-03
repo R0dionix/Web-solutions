@@ -38,3 +38,6 @@
 
 ### Безопасность
 - [All In One WP Security](https://ru.wordpress.org/plugins/all-in-one-wp-security-and-firewall/)
+
+### Защита от спама
+- [Kama Spamblock](https://ru.wordpress.org/plugins/kama-spamblock/)
