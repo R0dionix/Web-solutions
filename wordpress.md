@@ -23,7 +23,8 @@
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Отладка запросов
 - [User Switching](https://wordpress.org/plugins/user-switching/) - Отладка пользователей
 - [Cyr-To-Lat](https://wordpress.org/plugins/cyr2lat/) - Транслитерация ссылок  
-- [Regenerate Thumbnails](https://ru.wordpress.org/plugins/regenerate-thumbnails) - Пересоздание миниатюр
+- [Regenerate Thumbnails](https://ru.wordpress.org/plugins/regenerate-thumbnails/) - Пересоздание миниатюр
+- [woo-visual-hook-guide](https://wordpress.org/plugins/woo-visual-hook-guide/) - визуальное отображение хуков woocommerce
 
 ### Контактные формы
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Форма обратной связи
